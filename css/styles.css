@@ -8,3 +8,15 @@ img {
 .name {
   font-weight: bold;
 }
+.name1 {
+  font-size: 20px;
+}
+.name2{
+  font-weight: lighter;
+}
+.column li{
+  font-style: italic;
+}
+.column p a{
+  background-color: red;
+}
