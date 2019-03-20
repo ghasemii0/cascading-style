@@ -5,3 +5,6 @@ img {
   float: left;
   width: 30%;
 }
+.name {
+  font-weight: bold;
+}
